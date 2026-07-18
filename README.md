@@ -7,7 +7,7 @@ As the founder of Aya Lab (an internal AI R&D hub), I architect complete workflo
 ### What I work on
 * **Autonomous AI Agents:** Complex WhatsApp-based conversational bots operating with zero human moderation, including dual-mode agents (e.g., A1-C2 English Tutors and RSS-powered News Reporters).
 * **Workflow Orchestration:** Connecting Gemini APIs, databases, and third-party tools using n8n, Node.js, and Python.
-* **0-to-1 GenAI Products:** End-to-end launches like custom AI storybook generators, handling thousands of user creations with highly optimized, razor-thin infrastructure costs (< $0.10 per unit).
+* **0-to-1 GenAI Products:** End-to-end launches like custom AI storybook generators, handling thousands of user creations with highly optimized, razor-thin infrastructure costs.
 * **Scalable B2B2C Ecosystems:** API mechanics and CMS platforms designed to serve millions of users across LATAM's biggest telecoms.
 * **Cost & Product Workflows:** Structuring agent logic, handling LLM cost-controls (utility messages, interaction windows), and driving continuous product discovery and A/B testing.
 
