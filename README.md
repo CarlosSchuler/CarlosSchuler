@@ -16,4 +16,4 @@ Currently, I'm exploring the intersection of autonomous agents, LLMs, and workfl
 * **Testing & CI/CD:** Cypress, Postman, Appium, Git
 * **Architecture:** Microservices, Event-driven queues, API integrations
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carlos-schuler) [X] (https://x.com/schulerou)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carlos-schuler) [Follow] (https://x.com/schulerou)
