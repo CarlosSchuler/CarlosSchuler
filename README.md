@@ -1,21 +1,25 @@
-I build AI agents and ship scalable products that users interact with every day.
+# Hi there, I'm Schuler 👋
 
-Most of my work is hands-on: real API orchestration, clear backend patterns, and tested setups for autonomous agents, tool calling, and LLM-driven applications. I bridge the gap between hard code and product strategy.
+I build AI agents, orchestrate backend workflows, and design scalable architectures. Coming from a background as a QA Engineer and Tech Lead, my focus is on shipping robust, production-ready AI tools and microservices that actually work.
 
-As the founder of Aya Lab (an internal AI R&D hub), I architect complete workflows, clean integration templates, and advanced agent demos that help engineering teams skip the noise and get straight to building at scale.
+Currently, I'm exploring the intersection of autonomous agents, LLMs, and workflow automation.
 
-### What I work on
-* **Autonomous AI Agents:** Complex WhatsApp-based conversational bots operating with zero human moderation, including dual-mode agents (e.g., A1-C2 English Tutors and RSS-powered News Reporters).
-* **Workflow Orchestration:** Connecting Gemini APIs, databases, and third-party tools using n8n, Node.js, and Python.
-* **0-to-1 GenAI Products:** End-to-end launches like custom AI storybook generators, handling thousands of user creations with highly optimized, razor-thin infrastructure costs.
-* **Scalable B2B2C Ecosystems:** API mechanics and CMS platforms designed to serve millions of users across LATAM's biggest telecoms.
-* **Cost & Product Workflows:** Structuring agent logic, handling LLM cost-controls (utility messages, interaction windows), and driving continuous product discovery and A/B testing.
+### 🛠️ What I'm Building
+* **Autonomous WhatsApp Agents:** Architecting stateful conversational bots (including an A1-C2 English Tutor and an RSS-powered News Reporter) using WhatsApp Flows, n8n, and LLMs. I handle audio processing, prompt chaining, and conversation memory.
+* **GenAI Content Pipelines:** Building end-to-end AI generators for complex content, from custom storybooks to multi-language mini-books. I orchestrate Gemini APIs, open-source databases, and custom Node.js/Python scripts to process thousands of concurrent generations.
+* **LLM Orchestration:** Standardizing API integrations, tool calling, and RAG setups. I focus heavily on creating clean patterns that handle high-volume queues, optimize token usage, and manage API rate limits efficiently.
+* **Scalable APIs:** Designing CMS platforms and integration ecosystems capable of serving high-traffic consumer applications across different infrastructures.
 
-### About Me
-* **Principal Product Manager (AI & Innovation)** at AYA Conteúdos, orchestrating a high-impact digital portfolio.
-* **The Unfair Advantage:** I didn't start in business; I came from the code. I spent years as a QA Engineer and Tech Lead before moving into product leadership.
-* **Impact:** Reduced API response times by 40%, slashed vendor costs by building in-house multi-language AI generators, and boosted core platform retention by 15% through data-driven AI integrations. 
+### 💻 Tech Stack & Tools
+* **Core:** Node.js, Python, JavaScript
+* **AI & Orchestration:** n8n, Gemini APIs, Prompt Engineering, RAG pipelines
+* **Testing & CI/CD:** Cypress, Postman, Appium, Git
+* **Architecture:** Microservices, Event-driven queues, API integrations
 
-Building what's next in AI, or want to talk about orchestrating agents at scale? I'd love to chat and share input. 
+### 🎲 Beyond the Screen
+When I'm not writing automation scripts or tweaking prompts, I'm likely:
+* Dropping into a CS2 match or analyzing Chess tactics.
+* Reading up on Ancient Greek history and philosophy.
+* Clearing my mind with a HIIT run.
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/carlos-schuler).
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carlos-schuler)
