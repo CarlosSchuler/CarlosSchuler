@@ -16,10 +16,4 @@ Currently, I'm exploring the intersection of autonomous agents, LLMs, and workfl
 * **Testing & CI/CD:** Cypress, Postman, Appium, Git
 * **Architecture:** Microservices, Event-driven queues, API integrations
 
-### 🎲 Beyond the Screen
-When I'm not writing automation scripts or tweaking prompts, I'm likely:
-* Dropping into a CS2 match or analyzing Chess tactics.
-* Reading up on Ancient Greek history and philosophy.
-* Clearing my mind with a HIIT run.
-
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carlos-schuler)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carlos-schuler) [X] (https://x.com/schulerou)
