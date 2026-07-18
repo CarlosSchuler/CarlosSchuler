@@ -15,5 +15,5 @@ Currently, I'm exploring the intersection of autonomous agents, LLMs, and workfl
 * **AI & Orchestration:** n8n, Gemini APIs, Prompt Engineering, RAG pipelines
 * **Architecture:** Microservices, Event-driven queues, API integrations
 
-📫 **Find me on:** [X](https://x.com/schulerou)
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/carlos-schuler)
+*📫 **Find me on:** [X](https://x.com/schulerou)
+*📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/carlos-schuler)
