@@ -13,7 +13,6 @@ Currently, I'm exploring the intersection of autonomous agents, LLMs, and workfl
 ### 💻 Tech Stack & Tools
 * **Core:** Node.js, Python, JavaScript
 * **AI & Orchestration:** n8n, Gemini APIs, Prompt Engineering, RAG pipelines
-* **Testing & CI/CD:** Cypress, Postman, Git
 * **Architecture:** Microservices, Event-driven queues, API integrations
 
 📫 **More on:** [LinkedIn](https://www.linkedin.com/in/carlos-schuler), [Follow](https://x.com/schulerou)
