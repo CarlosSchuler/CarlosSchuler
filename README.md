@@ -12,7 +12,7 @@ As the founder of Aya Lab (an internal AI R&D hub), I architect complete workflo
 * **Cost & Product Workflows:** Structuring agent logic, handling LLM cost-controls (utility messages, interaction windows), and driving continuous product discovery and A/B testing.
 
 ### About Me
-* **Group Product Manager (AI & Innovation)** at AYA Conteúdos, orchestrating a high-impact digital portfolio.
+* **Principal Product Manager (AI & Innovation)** at AYA Conteúdos, orchestrating a high-impact digital portfolio.
 * **The Unfair Advantage:** I didn't start in business; I came from the code. I spent years as a QA Engineer and Tech Lead before moving into product leadership.
 * **Impact:** Reduced API response times by 40%, slashed vendor costs by building in-house multi-language AI generators, and boosted core platform retention by 15% through data-driven AI integrations. 
 * 🌱 **Beyond the screen:** When I'm not building agents, I'm usually studying Ancient Greek history and philosophy, trying to improve my Chess rating, dropping into a CS2 match, or clearing my mind with a HIIT run.
